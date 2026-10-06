@@ -1,0 +1,13 @@
+*.bin
+*.pcap
+*.pcapng
+*.cap
+*.log
+*.out
+*.tmp
+__pycache__/
+*.tar.gz
+*.zip
+.DS_Store
+Thumbs.db
+.vscode/

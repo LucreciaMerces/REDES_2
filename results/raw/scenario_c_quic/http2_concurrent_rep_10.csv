@@ -1,0 +1,2 @@
+protocol,rep,fct_seconds,useful_bytes,goodput_mbps
+http2,10,29.41592342,5120000,1.392443113723608
